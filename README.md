@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Precious ojakovo
 - 👀 I’m interested in solving problems and making a positive impact on the world. 
 - 🌱 I’m currently learning different software frameworks across javascript and python to create responsive applications and websites
-- 💞️ I’m looking to collaborate on new challenges and opportunities to use my skills to make a difference. I have experience in web development, mobile development, and data science.
+- 💞️ I’m looking to collaborate on new challenges and opportunities to use my skills to make a difference. I have experience in web development, mobile development, and data analysis.
 - 📫 How to reach me: preciouslouis1990@gmail.com
 
 <!---
